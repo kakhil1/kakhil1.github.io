@@ -1,24 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Akhil&#39;s blog</title>
-    <link>https://kakhil1.github.io/</link>
-    <description>Recent content on Akhil&#39;s blog</description>
+    <title>alien</title>
+    <link>/</link>
+    <description>Recent content on alien</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://kakhil1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
-      <link>https://kakhil1.github.io/posts/about/</link>
+      <title>Resume_project</title>
+      <link>/posts/resume_project/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/resume_project/</guid>
+      <description>pending.</description>
+      <content>&lt;p&gt;pending.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>My_equipment</title>
+      <link>/posts/my_equipment/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my_equipment/</guid>
+      <description>click here to launch code editor inside the browser
+i use a Lenovo G-24 165hz Display and AMD Ryzen 5 5600G + NVIDIA GTX 1660 Super build on my Jixian brown switches keyboard.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://vscode.dev/&#34;&gt;click here to launch code editor inside the browser&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;i use a Lenovo G-24 165hz Display and AMD Ryzen 5 5600G + NVIDIA GTX 1660 Super build on my Jixian brown switches keyboard.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Best_websites</title>
+      <link>/posts/best_websites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kakhil1.github.io/posts/about/</guid>
+      <guid>/posts/best_websites/</guid>
+      <description>This is a list of good websites https://Cyberpunked.org
+https://Based.cooking
+https://Privacyguides.org
+https://flightradar24.com
+https://mapchart.net
+https://open3dlab.com
+https://monkeytype.com
+https://chinafirewalltest.com
+https://annas-archive.org</description>
+      <content>&lt;h3 id=&#34;this-is-a-list-of-good-websites&#34;&gt;This is a list of good websites&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://Cyberpunked.org&#34;&gt;https://Cyberpunked.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://Based.cooking&#34;&gt;https://Based.cooking&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://Privacyguides.org&#34;&gt;https://Privacyguides.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://flightradar24.com&#34;&gt;https://flightradar24.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mapchart.net&#34;&gt;https://mapchart.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open3dlab.com&#34;&gt;https://open3dlab.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://monkeytype.com&#34;&gt;https://monkeytype.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://chinafirewalltest.com&#34;&gt;https://chinafirewalltest.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://annas-archive.org&#34;&gt;https://annas-archive.org&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about/</guid>
       <description>Hello this is my first post on my website. Im Akhilesh and currently studying class 12 in Mangalore.
 This site was made with Hugo Framework
 The site is hosted on Github Pages
 Hugo framework is written in Go Programming Language
 You can find the website theme at Hugo Themes: Terminal
 This is a static site and does not contain any javascript.
-You can find me on Discord as sekki1 </description>
+You can find me on Discord as sekki1 This website is licensed under a Creative Commons Attribution 4.</description>
       <content>&lt;h1 id=&#34;hello-this-is-my-first-post-on-my-website&#34;&gt;Hello this is my first post on my website.&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -41,6 +94,7 @@ You can find me on Discord as sekki1 </description>
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h6 id=&#34;you-can-find-me-on-discord-as-sekki1&#34;&gt;You can find me on Discord as sekki1&lt;/h6&gt;
+&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;This website is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0)&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     

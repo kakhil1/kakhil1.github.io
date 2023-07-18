@@ -2,14 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kakhil1.github.io/</loc>
+    <loc>/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kakhil1.github.io/categories/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kakhil1.github.io/posts/about/</loc>
+    <loc>/posts/resume_project/</loc>
+    <lastmod>2023-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kakhil1.github.io/posts/</loc>
+    <loc>/posts/my_equipment/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kakhil1.github.io/tags/</loc>
+    <loc>/posts/best_websites/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/posts/about/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
