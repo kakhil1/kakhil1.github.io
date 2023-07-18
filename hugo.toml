@@ -1,15 +1,17 @@
-baseURL = 'https://kakhil1.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site in terminal'
+baseurl = "/"
+languageCode = "en-us"
+# Add it only if you keep the theme in the `themes` directory.
+# Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal"
-publishDir = "docs"
+paginate = 5
+
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "red"
+  themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -53,10 +55,17 @@ publishDir = "docs"
   # TocTitle = "Table of Contents" # default
 
 
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = ""
+  site = ""
+
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Akhil's blog"
+    title = "alien"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
@@ -70,5 +79,5 @@ publishDir = "docs"
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Akhil's website"
+      logoText = "Akhil's blog"
       logoHomeLink = "/"

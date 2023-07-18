@@ -13,3 +13,5 @@ draft: false
 * You can find the website theme at [Hugo Themes: Terminal](https://themes.gohugo.io/themes/hugo-theme-terminal/)
 * This is a static site and does not contain any javascript.
 ###### You can find me on Discord as sekki1
+
+[This website is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
