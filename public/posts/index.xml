@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jul 2023 15:07:17 +0530</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/posts/introduction/</link>
+      <pubDate>Tue, 18 Jul 2023 15:07:17 +0530</pubDate>
+      
+      <guid>http://example.org/posts/introduction/</guid>
+      <description>Hello this is my first post on my website. My name is k.akhilesh</description>
+      <content>&lt;p&gt;Hello this is my first post on my website.
+My name is k.akhilesh&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
